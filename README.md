@@ -3,11 +3,6 @@
   <img align="left" alt="LinkdeIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/480px-Linkedin_icon.svg.png" />
 </a>
 <a href="https://t.me/romich51">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
-<br />
-
-Привет, меня зовут Рома, я работаю Data Scientist'ом и параллельно учусь в магистратуре.
-
-<br />
